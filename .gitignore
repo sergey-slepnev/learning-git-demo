@@ -1,5 +1,5 @@
 src/main/java/GitIgnoreClass.java
-src/main/java/Simple/
+src/main/java/GitIgnoreClass
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
