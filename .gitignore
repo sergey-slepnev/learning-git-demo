@@ -1,7 +1,5 @@
 src/main/java/GitIgnoreClass.java
 
-#this line is added to check .gitignore changes in the remote repository
-
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
