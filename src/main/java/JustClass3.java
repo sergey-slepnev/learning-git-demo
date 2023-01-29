@@ -5,5 +5,10 @@ public class JustClass3 {
         System.out.println("Hello world");
         System.out.println("Hello world");
         System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
+        System.out.println("Hello world");
     }
 }
