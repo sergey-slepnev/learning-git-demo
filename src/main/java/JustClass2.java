@@ -8,5 +8,9 @@ public class JustClass2 {
         System.out.println("Git remote repo");
         System.out.println("Git remote repo");
         System.out.println("Git remote repo");
+        System.out.println("Git remote repo");
+        System.out.println("Git remote repo");
+        System.out.println("Git remote repo");
+        System.out.println("Git remote repo");
     }
 }
