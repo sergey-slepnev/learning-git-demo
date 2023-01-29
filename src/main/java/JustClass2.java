@@ -12,5 +12,8 @@ public class JustClass2 {
         System.out.println("Git remote repo");
         System.out.println("Git remote repo");
         System.out.println("Git remote repo");
+        System.out.println("fix_branch");
+        System.out.println("fix_branch");
+        System.out.println("fix_branch");
     }
 }
