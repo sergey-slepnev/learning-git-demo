@@ -1,6 +1,8 @@
 # This repo was created for learning git
 ___
 ***
+
+!(https://imgbb.su/image/xJR3Ux)
 ___
 * ### My purposes for this repo
     * Learn git
